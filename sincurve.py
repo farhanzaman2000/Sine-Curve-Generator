@@ -27,7 +27,3 @@ plot.grid(True, which='both')
 plot.axhline(y=0, color='k')
 
 plot.show()
-
-
-
-plot.show()
